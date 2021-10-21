@@ -17,7 +17,7 @@ Item {
 			id: image2
 			anchors.fill: parent
 			source: setImage
-			opacity: 0.5
+			opacity: 1
 			z: -1
 		}
 	
